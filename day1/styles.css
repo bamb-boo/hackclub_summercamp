@@ -2,6 +2,8 @@ body{
     text-align: center;
 }
 h2{
+    font-family: 'Elms Sans', sans-serif;
+    font-weight: 400; 
     text-align: center;
     font-weight: bold;
 }
